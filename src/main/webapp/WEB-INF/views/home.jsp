@@ -5,6 +5,6 @@
 </head>
 <body>
 <h1>Hello, ${name}!</h1>
-This is seed project. Free from XML.
+This is seed project.
 </body>
 </html>
